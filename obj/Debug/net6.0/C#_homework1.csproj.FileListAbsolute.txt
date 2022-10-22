@@ -1,0 +1,15 @@
+E:\Study\C#_homework1\bin\Debug\net6.0\C#_homework1.exe
+E:\Study\C#_homework1\bin\Debug\net6.0\C#_homework1.deps.json
+E:\Study\C#_homework1\bin\Debug\net6.0\C#_homework1.runtimeconfig.json
+E:\Study\C#_homework1\bin\Debug\net6.0\C#_homework1.dll
+E:\Study\C#_homework1\bin\Debug\net6.0\C#_homework1.pdb
+E:\Study\C#_homework1\obj\Debug\net6.0\C#_homework1.csproj.AssemblyReference.cache
+E:\Study\C#_homework1\obj\Debug\net6.0\C#_homework1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\C#_homework1\obj\Debug\net6.0\C#_homework1.AssemblyInfoInputs.cache
+E:\Study\C#_homework1\obj\Debug\net6.0\C#_homework1.AssemblyInfo.cs
+E:\Study\C#_homework1\obj\Debug\net6.0\C#_homework1.csproj.CoreCompileInputs.cache
+E:\Study\C#_homework1\obj\Debug\net6.0\C#_homework1.dll
+E:\Study\C#_homework1\obj\Debug\net6.0\refint\C#_homework1.dll
+E:\Study\C#_homework1\obj\Debug\net6.0\C#_homework1.pdb
+E:\Study\C#_homework1\obj\Debug\net6.0\C#_homework1.genruntimeconfig.cache
+E:\Study\C#_homework1\obj\Debug\net6.0\ref\C#_homework1.dll
